@@ -115,3 +115,5 @@ When an endpoint fails, it will randomly select from its possible error types an
 FastAPI provides automatic interactive API documentation:
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
+
+---
